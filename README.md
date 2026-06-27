@@ -6,3 +6,4 @@
 * eda visualiztion [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-2/eda%20visualization.ipynb)]
 ### EDA-3 [[click here](https://github.com/RDS2ML/3SF/tree/main/EDA-3)]
 * eda feature extraction [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20feature%20extraction.ipynb)]
+* eda feature extraction date [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20feature%20extraction%20date.ipynb)]
