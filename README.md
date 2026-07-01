@@ -8,3 +8,8 @@
 * eda feature extraction [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20feature%20extraction.ipynb)]
 * eda feature extraction date [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20feature%20extraction%20date.ipynb)]
 * eda feature encoding [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20feature%20encoding.ipynb)]
+* eda data normalization [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20data%20normalization.ipynb)]
+* eda feature selection [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20feature%20selection.ipynb)]
+* eda practice []
+### EDA-4 []
+* eda normal distribution []
