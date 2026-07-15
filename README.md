@@ -13,4 +13,6 @@
 * eda practice [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-3/eda%20practice.ipynb)]
 ### EDA-4 [[click here](https://github.com/RDS2ML/3SF/tree/main/EDA-4)]
 * eda normal distribution [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20normal%20distribution.ipynb)]
-* eda parametric tests []
+* eda parametric tests [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20parametric%20tests.ipynb)]
+* eda categorical tests [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20categorical%20test.ipynb)]
+* eda practice [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20practice.ipynb)]
