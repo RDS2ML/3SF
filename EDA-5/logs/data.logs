@@ -1,0 +1,24 @@
+INFO: 2026-07-16 12:21:33,059: Data
+INFO: 2026-07-16 12:21:33,060: Data shape (110527, 14)
+INFO: 2026-07-16 12:21:49,825: Data
+INFO: 2026-07-16 12:21:49,826: Data shape (110527, 14)
+INFO: 2026-07-16 12:22:05,382: Data
+INFO: 2026-07-16 12:22:05,382: Data
+INFO: 2026-07-16 12:22:05,383: Data shape (110527, 14)
+INFO: 2026-07-16 12:22:05,383: Data shape (110527, 14)
+INFO: 2026-07-16 12:22:05,393: Percentage of women: Gender
+F    0.653882
+M    0.346118
+Name: proportion, dtype: float64
+INFO: 2026-07-16 12:22:05,393: Percentage of women: Gender
+F    0.653882
+M    0.346118
+Name: proportion, dtype: float64
+INFO: 2026-07-16 12:22:05,405: Percentage of men: Gender
+F    0.653882
+M    0.346118
+Name: proportion, dtype: float64
+INFO: 2026-07-16 12:22:05,405: Percentage of men: Gender
+F    0.653882
+M    0.346118
+Name: proportion, dtype: float64
