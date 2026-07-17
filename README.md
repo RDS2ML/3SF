@@ -16,3 +16,5 @@
 * eda parametric tests [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20parametric%20tests.ipynb)]
 * eda categorical tests [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20categorical%20test.ipynb)]
 * eda practice [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-4/eda%20practice.ipynb)]
+### EDA-5 [[click here](https://github.com/RDS2ML/3SF/tree/main/EDA-5)]
+* logs [[click here](https://github.com/RDS2ML/3SF/blob/main/EDA-5/logs.ipynb)]
